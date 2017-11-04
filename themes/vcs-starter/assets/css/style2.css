@@ -1,0 +1,25 @@
+/* import */
+@import "../fonts/fonts.less";
+/*@import "reset.less";*/
+
+/*html, body{
+	
+	font-family: 'Droid Serif Regular';
+	font-weight:400;
+	font-style: normal;
+}
+
+h1 {
+	font-family: 'Comic Sans MS';
+}
+
+p{
+	font-size: 14px;
+	line-height: 26px;
+
+}*/
+
+
+.parent {
+	background-color: aquamarine;
+}
